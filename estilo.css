@@ -93,6 +93,7 @@ nav > a:hover{
  color: black;
  border-radius: 10px ;
  padding: 10px;
+ transition-duration: 1s;
 }
 main h1{
 font-family: var(--fonte-destaque);
